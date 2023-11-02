@@ -12,10 +12,13 @@ Welcome to the repository for the "Introduction to Scientific Computing B" cours
 
 ## Repository Contents
 
-- help
-- Homework 
-- LABs
-- matplot
+- /Homework 
+- /LABs
+- /Midterm exam
+- /Miscellaneous
+- /quizes
+- run.py
+- testme.py
 
 ## Contact
 
