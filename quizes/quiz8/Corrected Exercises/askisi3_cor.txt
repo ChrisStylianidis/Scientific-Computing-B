@@ -1,0 +1,12 @@
+#Askisi 3
+
+O kanonas tou simpson einai pio akrivis afou to sfalma tou einai O(dx**5)
+
+#==============
+# kai epomenws einai to idio i perissotero akribis gia poluwnuma 4ou bathmoy?
+# i gia oles tis sunartiseis ?
+# H 5-taksi eixei proseggisi stin 4-i paragwgo opote ena poluwnumo 3-ou bathmou
+# exei mideniki 4-i paragwgo kai to apotelesma einai akribes
+#==============
+#   1/4
+#==============

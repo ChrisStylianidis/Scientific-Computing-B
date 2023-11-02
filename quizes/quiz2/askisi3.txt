@@ -1,0 +1,5 @@
+Christodoulos Stylianides
+Askisi3
+(a) a=list.sort()
+(b) sum=a.sum()
+(c) ta tuples den allazoun timi

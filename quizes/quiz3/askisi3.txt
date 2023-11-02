@@ -1,0 +1,8 @@
+#Christodoulos Stylianides 1065882
+#Askisi 3
+
+(a)to / einai i dieresi eno to // i akerea dieresi
+
+
+(b) (length<=60 and width<=35 and depth<=21)
+    ##einai true mono an tirei tis prodiagrafes

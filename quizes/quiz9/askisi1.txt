@@ -1,0 +1,9 @@
+Askisi 1 Christodoulos
+
+P(x)=cos(x). opou |x|<=1
+dy/dx=P(x)=cos(x)
+
+dy=cos(x)dx
+y=sin(x)
+lino os pros x, x=arxsin(y)
+to y exei times apo to [0,1) ara to x tha exei times apo to 0, pi/2

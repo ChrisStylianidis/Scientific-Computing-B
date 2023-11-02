@@ -1,0 +1,22 @@
+#christodoulos 1065882
+
+i sinartisi main epidi den exei kapies metavlites tha akolouthisei kanonika tin poria tis sinartisis def main xoris metavlites
+to thing_one(7) otan klithei tha tiposei mono 
+'x = 7'
+'y = 7'
+afou o arithmos otan den einai 1,2 h 3 ginete y=x ara str(x) tha anikei stin ''
+to thing_one(3) otan klithei tha tiposei mono
+'x = 12'
+'y = 6'
+afou i entoli pou tha akolouthisei einai y=2*x ara y=6 kai x=2*y ara x=12
+to thing_one(1) otan klithei tha tiposei mono
+'x = 2'
+'y = 1'
+afou y=x kai x=2
+to thing_two(l,v) tha allaksei ta l kai v etsi oste
+afou to l=[20,40,30]
+l=[26,45,34] opou to v tha ginei 3 sto telos
+ara
+'l = [26,45,34]'
+'v = 3'
+

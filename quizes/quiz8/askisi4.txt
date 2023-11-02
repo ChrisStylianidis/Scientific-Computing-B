@@ -1,0 +1,12 @@
+Christodoulo Stylianides
+Askisi 4 
+Kanonas trapeziou = dx/2 (f(x0)+2f(x0+dx)+...f(x0+(n-1)dx)+f(x1))
+
+t=12 mexri t=18
+v(12)=(37-24)=13
+
+dx=6
+6/2 (f(12)+f(18)) = 
+3* (37-13)= 72m
+
+Metatopisi = 72meters
