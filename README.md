@@ -27,23 +27,23 @@ The following is a description of what 2 of the main files contain to find thing
 
 **run.py:**
 ~~~
-# How to use f'{}'
+<strong>How to use f'{}'.</strong>
 examples:
 print(f'{"="*38}')
 print(f'{strApples}\t{numApples:10d}\t\t${prcApples:>5.2f}')
 
-# Classes
+<strong>Classes</strong>
 example:
 class Polynomial:
     def __init__(self,lis):
         self.lis= lis
 
-# Plotting, texts, and labels
+<strong>Plotting, texts and labels</strong>
 ~~~
 
 **testme.py:**
 ~~~
-# An average exercise that uses:
+<strong>An average exercises that uses:</strong>
 Runge Kutta 4
 Interpolation
 ~~~
