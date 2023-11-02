@@ -47,3 +47,8 @@ class Polynomial:
 Runge Kutta 4
 Interpolation
 ~~~
+
+**/Miscellaneous**
+~~~
+This folder contains every help that's explained in the first part of this course
+~~~
